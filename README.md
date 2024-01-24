@@ -4,7 +4,7 @@
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (3 weeks ago)
 - [SimonDevelop/vue-nodejs-mongo](https://github.com/SimonDevelop/vue-nodejs-mongo) -  (4 months ago)
-- [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) - Simple bot that handles release generation on github projects. (4 months ago)
+- [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) - Simple bot that handles release generation on github projects. (5 months ago)
 
 #### 🌱 My latest projects
 
