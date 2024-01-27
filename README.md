@@ -15,7 +15,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.0.2](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.0.2), 3 weeks ago) - Web application to facilitate the management of game servers under Linux.
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([1.1.4](https://github.com/SimonDevelop/sirene/releases/tag/1.1.4), 11 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([1.1.4](https://github.com/SimonDevelop/sirene/releases/tag/1.1.4), 1 year ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 - [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) ([0.2.2](https://github.com/SimonDevelop/releaser-bot/releases/tag/0.2.2), 5 years ago) - Simple bot that handles release generation on github projects.
 
 
