@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (2 months ago)
-- [SimonDevelop/vue-nodejs-mongo](https://github.com/SimonDevelop/vue-nodejs-mongo) -  (6 months ago)
 - [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot (6 months ago)
+- [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) - Simple bot that handles release generation on github projects. (6 months ago)
 
 #### 🌱 My latest projects
 
-- [SimonDevelop/vue-nodejs-mongo](https://github.com/SimonDevelop/vue-nodejs-mongo) - 
 - [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot
 - [SimonDevelop/simulateur-impot](https://github.com/SimonDevelop/simulateur-impot) - Created with CodeSandbox
+- [SimonDevelop/nativescript-vue](https://github.com/SimonDevelop/nativescript-vue) - Created with StackBlitz ⚡️
 
 #### 🔭 Latest releases I've contributed to
 
