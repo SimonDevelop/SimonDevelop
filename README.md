@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (2 months ago)
-- [SimonDevelop/vue-nodejs-mongo](https://github.com/SimonDevelop/vue-nodejs-mongo) -  (5 months ago)
+- [SimonDevelop/vue-nodejs-mongo](https://github.com/SimonDevelop/vue-nodejs-mongo) -  (6 months ago)
 - [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot (6 months ago)
 
 #### 🌱 My latest projects
