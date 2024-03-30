@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (2 months ago)
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (3 months ago)
 - [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot (7 months ago)
 - [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) - Simple bot that handles release generation on github projects. (7 months ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.0.2](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.0.2), 2 months ago) - Web application to facilitate the management of game servers under Linux.
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.0.2](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.0.2), 3 months ago) - Web application to facilitate the management of game servers under Linux.
 - [SimonDevelop/releaser-bot](https://github.com/SimonDevelop/releaser-bot) ([0.2.2](https://github.com/SimonDevelop/releaser-bot/releases/tag/0.2.2), 5 years ago) - Simple bot that handles release generation on github projects.
 
 
