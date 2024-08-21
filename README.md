@@ -4,7 +4,7 @@
 
 - [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (1 month ago)
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (7 months ago)
-- [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot (11 months ago)
+- [SimonDevelop/test-releaser-bot](https://github.com/SimonDevelop/test-releaser-bot) - Ceci est un dépôt pour tester le releaser-bot (1 year ago)
 
 #### 🌱 My latest projects
 
