@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SimonDevelop/twitch-bot](https://github.com/SimonDevelop/twitch-bot) - Ceci est un bot discord pour gérer les annonces live twitch. (6 days ago)
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (3 months ago)
+- [SimonDevelop/twitch-bot](https://github.com/SimonDevelop/twitch-bot) - Ceci est un bot discord pour gérer les annonces live twitch. (1 week ago)
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (4 months ago)
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (10 months ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([1.1.6](https://github.com/SimonDevelop/sirene/releases/tag/1.1.6), 3 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([1.1.6](https://github.com/SimonDevelop/sirene/releases/tag/1.1.6), 4 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.0.2](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.0.2), 10 months ago) - Web application to facilitate the management of game servers under Linux.
 
 
