@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SimonDevelop/twitch-bot](https://github.com/SimonDevelop/twitch-bot) - Ceci est un bot discord pour gérer les annonces live twitch. (1 month ago)
+- [SimonDevelop/twitch-bot](https://github.com/SimonDevelop/twitch-bot) - Ceci est un bot discord pour gérer les annonces live twitch. (2 months ago)
 - [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (5 months ago)
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (11 months ago)
 
