@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (5 days ago)
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (6 days ago)
-- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (6 days ago)
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (6 days ago)
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (1 week ago)
+- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.1.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.1.0), 5 days ago) - Web application to facilitate the management of game servers under Linux.
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.1.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.1.0), 6 days ago) - Web application to facilitate the management of game servers under Linux.
 - [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.0.1](https://github.com/SimonDevelop/sirene/releases/tag/2.0.1), 3 weeks ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 
 
