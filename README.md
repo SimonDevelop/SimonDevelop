@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (1 week ago)
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (1 week ago)
-- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (1 week ago)
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (2 weeks ago)
+- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (2 weeks ago)
 
 #### 🌱 My latest projects
 
