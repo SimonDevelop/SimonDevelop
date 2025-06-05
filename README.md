@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (today)
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (4 months ago)
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (4 months ago)
 - [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (4 months ago)
 
 #### 🌱 My latest projects
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.0.2](https://github.com/SimonDevelop/sirene/releases/tag/2.0.2), today) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.1.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.1.0), 4 months ago) - Web application to facilitate the management of game servers under Linux.
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.0.1](https://github.com/SimonDevelop/sirene/releases/tag/2.0.1), 4 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/SimonDevelop) (thank you!)
