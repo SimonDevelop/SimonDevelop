@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (2 days ago)
-- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (2 days ago)
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (6 months ago)
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (3 days ago)
+- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (3 days ago)
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 2 days ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
-- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.1.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.1.0), 6 months ago) - Web application to facilitate the management of game servers under Linux.
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 3 days ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
+- [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.1.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.1.0), 7 months ago) - Web application to facilitate the management of game servers under Linux.
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/SimonDevelop) (thank you!)
