@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (1 month ago)
-- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (6 months ago)
+- [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 6 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 7 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/SimonDevelop) (thank you!)
