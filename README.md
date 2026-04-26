@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Krakenor/dufaure-home](https://github.com/Krakenor/dufaure-home) - Site vitrine — Dufaure Home, artisan multi-travaux (today)
 - [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée. (2 months ago)
 - [SimonDevelop/docs-sirene](https://github.com/SimonDevelop/docs-sirene) - Documentation de la librairie php sirene (8 months ago)
 
