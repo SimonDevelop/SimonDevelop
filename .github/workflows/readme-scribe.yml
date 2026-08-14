@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: SimonDevelop/SimonDevelop@main
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
