@@ -1,28 +1,32 @@
-
 name: Update README
 
 on:
   push:
-  #schedule:
-  #  - cron: "0 */1 * * *"
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@master
+    permissions:
+      contents: write
 
-      - uses: muesli/readme-scribe@master
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update generated README
           branch: main
