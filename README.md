@@ -16,7 +16,7 @@
 
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) ([1.2.0](https://github.com/SimonDevelop/game-server-manager/releases/tag/1.2.0), 3 weeks ago) - Web application to facilitate the management of game servers under Linux.
 - [SimonDevelop/rpass](https://github.com/SimonDevelop/rpass) ([0.1.0](https://github.com/SimonDevelop/rpass/releases/tag/0.1.0), 1 month ago) - CLI password manager written in Rust
-- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 11 months ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
+- [SimonDevelop/sirene](https://github.com/SimonDevelop/sirene) ([2.1.0](https://github.com/SimonDevelop/sirene/releases/tag/2.1.0), 1 year ago) - Une librairie php pour simplifier l&#39;appel à l&#39;API sirene de l&#39;insée.
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/SimonDevelop) (thank you!)
