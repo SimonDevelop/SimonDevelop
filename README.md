@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Horyzone/quizir](https://github.com/Horyzone/quizir) - Une plateforme en ligne permettant de créer et de jouer à des quiz entre amis, développée avec Elixir/Phoenix. (1 day ago)
-- [Horyzone/flare-cli](https://github.com/Horyzone/flare-cli) - Un CLI DevOps léger et sans agent pour naviguer en SSH, surveiller l&#39;état de ses serveurs et recevoir des alertes en cas de panne. (2 days ago)
+- [Horyzone/quizir](https://github.com/Horyzone/quizir) - Une plateforme en ligne permettant de créer et de jouer à des quiz entre amis, développée avec Elixir/Phoenix. (2 days ago)
+- [Horyzone/flare-cli](https://github.com/Horyzone/flare-cli) - Un CLI DevOps léger et sans agent pour naviguer en SSH, surveiller l&#39;état de ses serveurs et recevoir des alertes en cas de panne. (3 days ago)
 - [SimonDevelop/game-server-manager](https://github.com/SimonDevelop/game-server-manager) - Web application to facilitate the management of game servers under Linux. (2 months ago)
 
 #### 🌱 My latest projects
